@@ -1,0 +1,31 @@
+
+.cau4 ul li{
+	border:1px solid;
+	text-align:center;
+	width:150px;
+	list-style-type:none;
+	background:#FF0000;
+	height:30px;
+	position:relative;
+
+}
+.cau4 ul li ul{
+	display:none;
+	top:0;
+	left: 110px;
+	position:absolute;
+}
+.cau4 ul li:hover ul{
+	display:block;
+}
+
+.cau4 a{
+	color:GhostWhite;
+	text-decoration:none;
+	display:block;
+	height:100%;
+}
+.cau4 a:hover{
+	background:#FF99CC;
+	color:#f1f1f1;
+}

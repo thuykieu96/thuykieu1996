@@ -1,0 +1,60 @@
+*{
+	margin:0;
+    padding:0;}
+#Logo {
+	text-align:center;
+}	
+#container{
+	width:90%;
+	min-height:500px;
+	background:#eee;
+	margin:auto;
+	
+}
+header{
+	min-height:100px;
+	background:#33CC66;
+	
+}
+ul li{
+	text-align:center;
+	list-style-type:none;
+	display:inline-block;
+	height:30px;
+	width:10%;
+}
+a{
+	display:lock;
+	color:red;
+}
+nav{
+	min-height:40px;
+	background:#FFCCCC;
+	margin-top:10px;
+
+}
+
+.cot1{
+	width:27%;
+	min-height:300px;
+	background:#F7087F;
+	margin-right:45px;
+	float:left;
+	margin-left:30px;
+	margin-top:10px;
+}
+#cot3{
+	width:28%;
+	margin-right:30px;
+	background:#FF66E4;
+	float:right;
+	min-height:300px;
+    margin-top:10px;
+}
+footer{
+	float:left;
+	margin-top:20px;
+	min-height:50px;
+	background:#00FFCC;
+	width:100%;
+}

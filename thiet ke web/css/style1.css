@@ -1,0 +1,56 @@
+*{
+	padding:0;
+	margin:0;
+	}
+#container{
+	margin:auto;
+	width:90%;
+	padding:10px;
+	overflow:auto;
+	background-color:#f6f6f6;
+	background: url("bg2.jpg");
+	border-style:dotted;
+		
+	}
+div{
+	border:1px solid;
+	
+	}
+.col{
+	width:30%;
+	float:left;
+	
+	
+	}
+.col1{
+	border-style:solid dashed;
+	background:#99FFFF;
+		
+	}
+.col2{
+	background-color:green;
+	border-radius:10px;
+	border:none;
+	box-shadow:5px 5px 5px red;
+	margin-left:30px;
+	
+		
+	}
+.col2 p{
+	border:1px solid;
+	height:50px;
+	background:#FF00FF;
+	margin-top:5px;
+}
+.col3{
+	float:right;
+	background-color:rgba(0,0,0,.3);
+	margin-right:50px;
+	}
+.col4{
+	clear:left;
+	margin-top:10px;
+	float:left;
+	width:96%;
+	background:linear-gradient(#ABA172,#FFF);
+	}
